@@ -15,12 +15,13 @@ Data & Analytics professional with 9+ years of IT experience, focused on SQL, Py
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=subhasis-panda-data&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=subhasis-panda-data&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 ### ✍️ Random Dev Quote
 "When a program is clean and neat, nicely structured, and
 consistent, it can be beautiful."
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=subhasis-panda-data&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://komarev.com/ghpvc/?username=subhasis-panda-data&icon=4&color=0)](https://visitcount.itsvg.in)
